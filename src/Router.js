@@ -128,6 +128,10 @@ export const TabRouter = TabNavigator(
   },
   {
     animationEnabled: 'true',
+      tabBarOptions: {
+    activeTintColor: '#4682b4',
+
+  }
   }
 
 );

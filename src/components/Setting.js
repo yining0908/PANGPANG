@@ -43,9 +43,9 @@ class Setting extends Component {
           />
            <ListItem
             leftIcon={{name:'apps'}}
-            title="Ver"
-            rightTitle="1.5.1"
-            hideChevron
+       title="Ver  ( 1.5.1 )"
+            //rightTitle="1.5.1"
+            //hideChevron
           />
         </List>
       </ScrollView>

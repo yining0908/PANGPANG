@@ -11,12 +11,15 @@ import { List, ListItem, Button, Icon, Text, Tile } from 'react-native-elements'
         />
         <List>
           <ListItem
+          leftIcon={{name:'photo-album'}}
             title="Album"
           />
           <ListItem
+           leftIcon={{name:'camera-alt'}}
             title="Use Cemera"
           />
           <ListItem
+          leftIcon={{name:'delete'}}
             title="Delete"
           />
         </List>
